@@ -1,0 +1,9 @@
+PyYAML
+pandas
+numpy
+streamlit
+PyMuPDF
+plotly
+google-generativeai
+openai
+xai_sdk
